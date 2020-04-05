@@ -1,1 +1,9 @@
-gfiuygeiukfal
+git add -A
+
+git commit -m "messege"
+
+
+git push origin master
+
+
+git pull
